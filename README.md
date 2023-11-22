@@ -36,4 +36,4 @@ gradle test
 - `/` GET
 - `/current-connections` GET
 
-- jeej v2.1
+- jeej v2.2
